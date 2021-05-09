@@ -1,0 +1,16 @@
+{
+    "name": "nodefolio",
+    "version": "0.0.1",
+    "description": "This is my personal portfolio written in node.js",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Artur Radziszewski",
+    "license": "MIT",
+    "dependencies": {
+        "bootstrap": "^5.0.0",
+        "express": "^4.17.1",
+        "nodemailer": "^6.6.0"
+    }
+}

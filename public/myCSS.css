@@ -1,0 +1,35 @@
+#head-txt{
+    color: lightgray;
+    padding-top: 150px;
+}
+
+.cont-box{
+    display: block;
+    border: 1px solid;
+    border-color: black;
+    height: fit-content;
+    width: 70%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.cont-shadow{
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+fieldset{
+    margin-top: 10px;
+}
+
+input, textarea{
+    width: 400px;
+}
+
+.navbar-nav > li{
+    padding-left:30px;
+  }
+
